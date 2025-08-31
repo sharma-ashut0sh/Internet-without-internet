@@ -1,0 +1,36 @@
+The main components of the system -->
+1.Main/Central serve 
+2.Nodes(enchanted with LAN)
+3.Uses
+
+
+Although it can be used for large number of purposes but I will explain all in the next part with an example of cloud storage without internet to avoid confusion.
+
+
+Step number 1-->
+This is the initial step.here we will setup the system.
+first the central system will have a large storage,an guide system(empowred with ai and humans) and a wifi.
+After that we have to setup
+nodes( with LAN)of range about 500m in every 500 radius.rhe nodes with have a wifi.
+
+
+Step number 2-->
+when ever a user wants to upload a file on cloud storage he/ she will connect to the nearest nodes through bluetooth and transfer the file to the node without internet. then then nodes will send this to the centralised system or temporary Store it in their storage using internet.
+
+note--here the user have not used any internet to upload the file. 
+
+Step number 3-->
+whenever any other user or the same user wants to access the file. he or she will connect to the nearest Node using LAN and send a request to the node to access the file. After checking if the user is authorised. it will send and request to the centralised system to access the file which it or other node have send it before and transfer it to the user using LAN.
+
+
+Note- while accessing the file also the user had not used internet.
+
+
+
+
+
+
+
+
+
+
